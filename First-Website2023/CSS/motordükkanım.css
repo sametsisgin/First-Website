@@ -1,0 +1,26 @@
+body{
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    /*display: flex;
+            flex-direction: column; /* Dikey hizalama için */
+            /*justify-content: center;  Dikey olarak ortalar */
+            /*align-items: center; /* Yatay olarak ortalar */
+            /*height: 100vh;  Sayfanın yüksekliğini alır */
+            /*margin: 0;  Varsayılan margin'i kaldırır */
+}
+h1{
+    color: #D04848;
+    
+}
+h2{
+    color: #561C24;
+}
+#font-48{
+    font-size: 38px;
+}      
+
+
+#first-D{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
